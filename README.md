@@ -14,31 +14,37 @@ export const Data = [
      title: 'Corporate Law',
      description:'Focusing on advisting and representing corporations, their executives, and shareholders on various legal matters. This includes mergers and acquisitions, intellectual property rights, corporate governance, and securities law.'
     },
+    
     {
         icon:<RiBankLine />,
         title: 'Banking&Finance',
         description:'We are specialized in legal issues concerning the transaction and regulation of financial instruments and institucions. This involve issues like lending agreements, regulatory compliance, securitization, and capital markets.'
     },
+    
     {
         icon:<AiOutlineLaptop />,
         title: 'ICT Sector',
         description:'We help clients navigate through regulatory compliance, data protection, intellectual property issues, and e-commerce law. We alse work on contracts involving software licenses, cloud computing agreements, and technology transfers.'
     },
+    
     {
         icon:<MdOutlineRealEstateAgent />,
         title: 'Real Estate',
         description:'We guide our clients through property transactions, ensuring that all regulations are met and that contracts are legally sound. This can include zoning issues, title searches, and financing'
     },
+    
     {
         icon:<AiOutlineInsurance  />,
         title: 'Insurance',
         description:'We help clients with legal issues concerning insurance policies and claims like policy interpretation, insurance fraud investigations, and litigation over denied claims.'
     },
+    
     {
         icon:<MdOutlineAddHomeWork />,
         title: 'Laborator&Employment',
         description:'We can help on matters involving employer-employee relationships. Including employment contracts, workplace discrimination, employee benefits, and collective bargaining agreements.'
     }
+    
 
 ]
 
